@@ -1,5 +1,5 @@
 /*
- * Programming Quiz: Murder Mystery (3-4)
+ * Murder Mystery
  */
 
 // change the value of `room` and `suspect` to test your code
